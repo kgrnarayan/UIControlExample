@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">UIControlExample</string>
+    <string name="create_new_contact">Create New Contact</string>
+    <string name="enter_contact_name">Enter Contact name</string>
+    <string name="enter_mobile_number">Enter Mobile Number</string>
+    <string name="enter_email_id">Enter Email id</string>
+    <string name="save_contact">Save Contact</string>
+
+    <string-array name="spinner_data">
+        <item>work</item>
+        <item>home</item>
+        <item>fax</item>
+        <item>other</item>
+
+    </string-array>
+    <string name="title_activity_display">DisplayActivity</string>
+
+
+</resources>
